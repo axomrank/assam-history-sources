@@ -1,0 +1,124 @@
+OTHER PRIMARY SOURCES TO COLLECT FOR ANCIENT ASSAM / KAMARUPA
+Prepared 1 November 2026
+
+The immediate historical focus is approximately 350–1100 CE. Later works are identified explicitly because they preserve retrospective traditions or illuminate the transition after 1100. A primary source is the old text, inscription, object or field observation; a modern historical book discussing it is a research aid. The priorities below are collection recommendations, not a claim that these files have already been downloaded.
+
+PRIORITY 1: ORIGINAL EPIGRAPHIC EDITIONS AND IMAGES
+
+1. EPIGRAPHIA INDICA AND EARLY JOURNAL EDITIONS
+Collect the first editions and later corrected readings of each inscription, with all photographic, facsimile or estampage plates. Sharma's book is the starting collection, but it should not replace the original plates when a reading or date is disputed. Especially collect the Nidhanpur instalments in Epigraphia Indica XII and XIX, the Dubi material, Umachal in XXXI and Howraghat/Uttarbarbil in XXXII. Do not count Howraghat and Uttarbarbil twice.
+Verified online collection: https://ignca.gov.in/epigraphia-indica/
+Verified complete scan of volume XXXII: https://commons.wikimedia.org/wiki/File:Epigraphia_Indica_Vol_32.pdf
+
+2. JOURNAL OF THE ASSAM RESEARCH SOCIETY
+Collect relevant issues, not just extracts quoted by later authors. Priority editions are Kuruvabahi (1981–82), Dighaligaon (XXIX, 1986–87, pp.37–52) and Palasini (XXXI, 1989–90, pp.106–114). The latter two citations are reproduced in Saikia 2021, printed p.44. Obtain the bell and Kaki image readings through the expanded Kamarupa Sasanavali editions as well.
+Edition locator: https://abhidhajournal.com/wp-content/uploads/2024/06/Mrigakhee-Saikia.pdf
+The complete journal issue scans were not located in this audit.
+
+3. EXTERNAL INSCRIPTIONS
+Collect the original texts and images of Prayaga/Allahabad, Apshad, Mandsaur, the Nepal Pashupati record of Jayadeva II, Samangad, Bhagalpur and the Chandra records of Bengal. They supply evidence absent from local royal charters. The fifteen external notices in Sharma's introduction now have separate summary files. Several link to Kamarupa through scholarly identification rather than an explicit kingdom-name, so the reading and argument must travel with the image.
+Locator: Sharma (1978), introduction pp.0.15–0.18; supplied PDF pp.32–35.
+For the Gupta records collect Corpus Inscriptionum Indicarum, volume III, using both the older edition and its revised edition where possible.
+
+4. MUSEUM OBJECT RECORDS AND ESTAMPAGES
+Obtain accession numbers, dimensions, provenance, present location, high-resolution photographs, impressions and conservation history from Assam State Museum, the Directorate of Historical and Antiquarian Studies, Assam's Directorate of Archaeology, Nalanda collections and the Indian Museum. A museum photograph proves the object's appearance, but a modern catalogue's mistaken dynasty field is not a historical authority.
+Example official object: https://nmma.nic.in/nmma/antiqDetail.do?object=98&refId=216028
+Keep the Dubi seal linked to its charter and distinguish a seal design from multiple clay impressions of that design.
+
+PRIORITY 2: CLOSE-IN-TIME NARRATIVE SOURCES
+
+5. BANABHATTA'S HARSACARITA
+Period: seventh century, close to Bhaskaravarman and Harsha.
+Collect: Sanskrit text plus E.B. Cowell and F.W. Thomas's English translation (1897), preferably with scanned pages.
+Why: the embassy of Hamsavega, royal gifts, the description and genealogy of Bhaskaravarman, and political communication with Harsha. Chapter VII is a priority.
+Limit: a courtly literary biography contains praise, elaborate rhetoric and selective reporting.
+Verified English text: https://franpritchett.com/00litlinks/harshacharita/index.html
+Chapter VII: https://franpritchett.com/00litlinks/harshacharita/chapter07.htm
+
+6. THE LIFE OF HIUEN-TSIANG
+Authors/tradition: Huili and Yancong; seventh-century biography of Xuanzang.
+Collect: Samuel Beal's English translation, alongside a modern translation if available.
+Why: additional narrative about the traveller, Bhaskaravarman and Harsha, useful for comparison with the travel record already collected.
+Limit: it is a different work from Si-Yu-Ki; agreements do not automatically constitute wholly independent testimony.
+Verified Internet Archive item: https://archive.org/details/lifeofhiuentsian030569mbp
+
+7. THE CHINESE TEXT AND A NEWER TRANSLATION OF XUANZANG
+Collect: the Chinese Da Tang Xiyu Ji, Book X, and a newer annotated translation; a suitable edition to seek is Li Rongxi, The Great Tang Dynasty Record of the Western Regions.
+Why: verify river names, distances, royal titles and frontier language against Beal's nineteenth-century choices. Your existing Beal volume remains useful but its editorial footnotes must be separated from the original narrative.
+Status: edition target identified; an accessible complete modern translation was not verified in this audit.
+
+PRIORITY 3: REGIONAL LITERARY AND HISTORICAL TEXTS
+
+8. SANDHYAKARANANDIN'S RAMACARITA
+Period: early twelfth century; outside the strict cutoff but important for the transition from the eleventh century.
+Collect: Sanskrit, the surviving commentary and the English translation in the 1939 edition. Make sure this is Sandhyakaranandin's Bengal court poem, not another work called Ramacarita or Ramacharitam.
+Why: Bengal–Kamarupa relations and the political setting of the later Pala period.
+Limit: later court poetry and its commentary require separate attribution and careful chronological use.
+Verified edition catalogue: https://cir.nii.ac.jp/crid/1971149384770796552
+Full accessible scan not verified here.
+
+9. KALHANA'S RAJATARANGINI
+Period: twelfth-century composition, retrospective for earlier centuries.
+Collect: Sanskrit plus M.A. Stein's two-volume English translation (1900).
+Why: the Pragjyotisha princess Amritaprabha and traditions of contact involving Kashmir and the northeast. Sharma examines these traditions critically in his introduction.
+Limit: an episode about an early king is not contemporary evidence merely because it occurs in a chronicle. Identify precisely what century Kalhana wrote in and what century he describes.
+Verified volume-I scan: https://pahar.in/pahar/Books%20and%20Articles/Indian%20Subcontinent/1900%20Kalhanas%20Rajatarangini%20Vol%201%20translated%20by%20Stein%20s.pdf
+
+10. VAKPATI'S GAUDAVAHO
+Period: eighth-century court poem in Prakrit.
+Collect: the original Prakrit text, commentary and translation or explanatory notes. Shankar Pandurang Pandit's edition is a concrete starting point.
+Why: the representation of eastern regions and royal campaigns in the period between the Varmans and later Salastambhas.
+Limit: geographical names and conquest rhetoric cannot be turned into a precise administrative map.
+Verified archive edition: https://archive.org/details/gadavahohistor00vakpuoft
+
+11. MAHABHARATA, RAMAYANA AND RELEVANT PURANIC PASSAGES
+Collect: critical texts and reliable translations of the passages naming Pragjyotisha, Lauhitya, Naraka and Bhagadatta. Record book, chapter and verse for each passage rather than collecting unattributed quotations.
+Why: the formation and reuse of regional traditions and royal ancestry claims.
+Limit: texts and recensions have different dates and layers. A legendary king is not automatically a securely dated ruler of the historical Kamarupa kingdom. Neither the epics nor the Puranas should be used alone to draw fourth-century borders.
+Starting locator: Sharma's introduction, pp.0.4–0.12, supplied PDF pp.21–29.
+
+12. EARLY GEOGRAPHICAL AND TECHNICAL REFERENCES
+Collect the relevant passages of Kautilya's Arthasastra and Varahamihira's Brhatsamhita with their commentaries and a dependable translation.
+Why: products, geographical terminology and regional classifications connected in scholarship with Lauhitya, Pragjyotisha or Kamarupa.
+Limit: distinguish what the base text says from a commentator's later identification. Sharma specifically cautions against treating every Vedic or ritual reference as a direct notice of Assam.
+Starting locator: Sharma's introduction, pp.0.1–0.4 and 0.10–0.12.
+
+13. ADDITIONAL TANTRIC / BUDDHIST TEXTS
+Collect relevant passages and dated manuscripts of texts that actually name Kamarupa, rather than assuming every tantra is evidence for ancient Assam. Texts such as the Hevajra tradition and the Caturpithatantra are possible research targets for sacred geography and networks.
+Why: cultural and religious geography beyond the political charters.
+Limit: exact recension, manuscript date, textual date and geographical identification must be established separately. These are lower-priority research targets, not verified accounts of a Kamarupa king.
+Your Yogini-Tantra English file is labelled a working draft. For quotation or publication, retain the Sanskrit source and obtain a published translation or scholarly check; the draft is not an independent primary witness.
+
+PRIORITY 4: FIRSTHAND ARCHAEOLOGICAL DOCUMENTATION
+
+14. EXCAVATION AND EXPLORATION REPORTS
+Collect the Assam sections of Indian Archaeology—A Review, ASI Annual Reports and Assam Archaeology reports. Priority sites include Ambari, Duboroni, Sri Surya Pahar, Da-Parbatiya, Madan Kamdev, Deopani and the Kapili–Jamuna valley.
+Why: stratified settlement, architecture, sculpture, ceramics, habitation and religious activity can test claims made in texts and inscriptions. Preserve plans, sections, photographs, find contexts and dating evidence, not only the conclusions.
+Verified report covering Duboroni, Ambari and Sri Surya Pahar:
+https://assets.ctfassets.net/l47hkrce4wip/1QK88bFQMLUHt301oLRfIP/66a33097d420ddc59c5d761ace1ed64d/011_Indian_Archaeology_A_Review_1997-98.pdf
+Firsthand regional documentation and bibliography:
+https://abhidhajournal.com/wp-content/uploads/2024/06/Mrigakhee-Saikia.pdf
+
+15. ARTEFACT, COIN AND MANUSCRIPT CATALOGUES
+Collect photographs and provenances for coins and hoards, pottery, terracottas, sculptures, seals, inscribed bells and manuscript colophons. Record whether objects come from a controlled excavation or an unstratified find.
+Why: they provide material and palaeographic evidence independent of a literary retelling.
+Limit: a coin found in Assam is not automatically a coin issued by a Kamarupa king. An attributed sculpture or manuscript needs a stated dating argument. Do not invent an unbroken local royal coin series.
+
+OPTIONAL: EXTEND THE PROJECT BEYOND 1100
+
+16. KANAI BARASI BOWA AND TABAQAT-I NASIRI
+Collect the inscription image and edited text together with Minhaj-i Siraj Juzjani's thirteenth-century Persian narrative, preferably Persian plus H.G. Raverty's English translation. This is for the 1206 expedition and later political history, not the core 350–1100 file.
+Keep the inscription's actual named persons separate from identifications supplied by chronicles and later historians.
+Edition guide: https://www.iranicaonline.org/articles/tabaqat-naseri/
+
+17. PRACYASASANAVALI AND LATER REGIONAL RECORDS
+Maheswar Neog's collection begins in the early thirteenth century and is appropriate if expanding to the post-Kamarupa transition, Koch, Chutiya or Ahom periods. Collect the original Ahom/Assamese Buranjis and other later chronicles only with their manuscript and compilation histories documented. They are valuable primary sources for their own periods, not automatically eyewitness evidence for 350–1100.
+Verified catalogue: https://tufs.repo.nii.ac.jp/records/25402
+
+SUGGESTED COLLECTION ORDER
+
+First obtain Harsacarita and The Life of Hiuen-Tsiang, then the original editions of Kuruvabahi, Dighaligaon, Palasini, the bell and Kaki image. In parallel with that bibliographic work, collect the original external-inscription plates and the excavation reports. Next add Ramacarita, Rajatarangini and a newer Xuanzang translation. The epics and additional ritual texts are useful once the dated inscriptional and archaeological framework is in place.
+
+MINIMUM CATALOGUE FIELDS FOR EACH NEW ITEM
+
+Title; original author/issuer; source date and dating basis; edition/translator; publication year; original language; provenance; present repository or accession; relevant page/chapter/verse; scan URL; whether images are present; download status; transcription/translation status; and specific uncertainties.

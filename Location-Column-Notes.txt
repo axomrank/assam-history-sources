@@ -1,0 +1,17 @@
+LOCATION AND COORDINATE COLUMNS
+Updated 1 November 2026 to include approximate nearby and regional reference coordinates.
+
+Latitude is column E and longitude is column F. Coordinates are decimal degrees, north/east positive.
+present_place describes the modern geographical findspot or its broad locality, not current museum custody.
+coordinate_reference names the actual location represented by each coordinate. It may be a monument, a village, a nearby town, or a broader regional reference.
+Approximate nearby references are not exact inscription recovery positions. Broad regional references may be many kilometres from an unresolved village; proximity is NOT claimed. Filter coordinate_type before making a detailed archaeological map.
+coordinate_precision, location_source and location_notes identify the approximation and supporting source. No surveyed uncertainty radius is available for these fallback points.
+
+48 of 53 entries now have coordinates. Five remain blank because a defensible reference locality has not been chosen. Twenty-seven entries use the previously added approximate nearby or regional references.
+The five unresolved entries are Hayunthal, Ulubari, the unspecified Ganga grant, Rajghat, and Subhankarapataka.
+The 350–1100 file uses the same coordinate assignments for matching record IDs. Historical dates, events and original findspot descriptions are preserved.
+
+USER LOCATION CORRECTIONS
+Barpanara: 26.418977850439497, 91.75189234914802; applied to S15, Indrapala’s Gauhati plates.
+Deopani: 26.219709892356004, 93.82396043236585; applied to SA02, SA03 and SA04, the Vishnu, Shankara-Narayana and Harihara image inscriptions.
+These locality points were supplied by the user on 1 November 2026 and have not been independently surveyed.

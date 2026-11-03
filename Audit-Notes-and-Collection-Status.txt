@@ -1,0 +1,55 @@
+KAMARUPA PRIMARY-SOURCE AUDIT
+Completed: 1 November 2026
+
+FILES AND COVERAGE
+
+1. Inscription summaries: 53 separate TXT summaries/notices plus an index.
+   - 27 formal entries in Sharma's main text and appendix.
+   - 8 supplementary regional records/notices.
+   - 15 external inscriptions discussed in Sharma's introduction.
+   - 3 later-context records retained from the earlier CSV.
+
+2. Kamarupa-Inscriptions-Chronology.csv: 53 records, including later context and explicitly uncertain dating.
+
+3. Kamarupa-Inscriptions-350-1100.csv: 38 records assigned to this period in the consulted sources: 28 local/regional or Kamarupa-seal records and 10 outside references/identifications. This is a filtered working list, not 38 independently and exactly dated local royal inscriptions. It includes a seal attached to a charter and groups of seal impressions as separate catalogue entries.
+
+4. Three records are kept outside the dated core because their period is uncertain or crosses its boundary: Palasini, the Kasomaripathar Krishna-Durga reference, and Silimpur. Twelve entries belong to later context. The full catalogue therefore has 38 + 3 + 12 = 53 entries.
+
+5. Xuanzang-Kamarupa-Summary.txt: summary checked against printed pp.195–199 / supplied PDF pp.223–227 of Beal volume II. It separates the translated narrative from editorial footnotes and neighbouring countries' descriptions.
+
+6. Unresolved-Inscriptions-and-Edition-Locators.txt: original publications and unresolved object/date identifications that still need collection.
+
+7. Other-Primary-Sources-to-Collect.txt: prioritised collection guide, distinguishing contemporary evidence, later narrative, religious tradition and archaeological documentation.
+
+CORRECTIONS MADE
+
+- Bargaon is Ratnapala's twenty-fifth regnal year, checked visually on printed p.165 / PDF p.219. The previous summary's “seventeenth” was an OCR misreading and has been corrected.
+- Coratbari is his twelfth regnal year, checked on introduction p.0.21 / PDF p.38. An exact c.1021 date is no longer asserted. It is not a newly discovered twenty-eighth numbered chapter; Sharma discusses it in the introduction.
+- The Coratbari city reading is Hadapyaka in Sharma's revised discussion. He explicitly says the earlier reported Hadapesvara is absent from the readable text.
+- Uttarbarbil and Howraghat are one charter, not two.
+- Dighaligaon and Kaliabor are one charter, not two.
+- Kuruvabahi is additional to Hayunthal; its original edition is identified but not fully inspected.
+- Palasini and the Krishna-Durga image reference are added as provisional notices with original-edition leads, not silently given secure dates.
+- Duboroni's Vasundharavarman record is supported by the official later excavation report. The report's proposed regional kingship and palaeographic dating remain qualified.
+- The museum's erroneous Late Ahom dynasty field for Vanamala's plates has not been copied.
+- The Kamarupa and Bengal Pala dynasties, and their same-name rulers, are distinguished. Furui's Indian Museum Dharmapala year-26 plate belongs to the Bengal sphere and is not added as a Kamarupa charter.
+- Gachtal copper plates and the later Gachtal pillar are distinct. Ambari, the pillar, Kanai Barasi Bowa and twelfth-century material are not counted within 350–1100.
+- Dates are not made precise merely by sorting. Century brackets and reconstructed approximate CE dates have different meanings; read date_display and the notes alongside the numeric sorting columns.
+
+WHAT HAS ACTUALLY BEEN CHECKED
+
+The supplied Sharma PDF was used for the 27 formal entries. Its introduction was inspected as page images, including pp.0.15–0.18 and 0.21–0.24. The supplied TXT has no extracted text on its first 40 PDF pages and also omits text on some other pages; the name “TXT version” must not be taken to mean a complete or proofread transcription. The summary files do not inherit the introduction's missing OCR.
+
+Sharma's introduction is a scholarly discussion, not the full critical edition of every external inscription it mentions. Their summaries identify this level of evidence. The newer regional notices were checked against an official museum description, the official archaeological report, or named scholarly publication references, with evidence-status labels in the CSV and notices.
+
+WHAT IS STILL AN ACQUISITION TASK
+
+Full scans, complete readings and plates of several later-published regional inscriptions were not located or accessed. The bell, Kaki, Kuruvabahi, Palasini and Krishna-Durga notices should be expanded only after their editions and objects are matched. A primary edition of the Ratnavarman lead was not established. The separate edition-locator file records these tasks so that lack of access is not confused with absence of evidence.
+
+EXHAUSTIVENESS
+
+The requested audit and summaries have been carried out for the material located and documented here. This does not justify an unconditional claim that the catalogue is exhaustive through 2026. That would require a complete check of Assam Research Society issues, archaeology reports, museum accessions and newly published readings. The 38-entry date-filtered list is the current documented working set; the uncertainty file is part of the result.
+
+COLLECTION STATUS
+
+The two supplied source PDFs and their extracted TXT files remain in Primary source. This task adds summaries, revised CSVs and research notes. The additional books listed in the collection guide have not automatically been downloaded.

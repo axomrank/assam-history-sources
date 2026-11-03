@@ -1,0 +1,54 @@
+UNRESOLVED RECORDS AND ORIGINAL EDITIONS TO OBTAIN
+Audit date: 1 November 2026
+
+These are explicit collection tasks, not evidence that an inscription does not exist. A published mention can establish a useful lead without supplying a dependable full reading, image or date.
+
+1. KURUVABAHI COPPER PLATES OF HARJARAVARMAN
+Collect D. Chutia, “Kuruvabahi (Nagaon) Copper Plate Grant of Harjjara(varma)deva,” Journal of Assam Research Society, 1981–82. The edition is identified by Rajat Sanyal's 2014 inventory. A short bibliographic summary is saved as B06. Do not confuse this record with Hayunthal.
+Inventory locator: https://www.researchgate.net/publication/361527651_Assam_from_the_Fifth_to_the_Thirteenth_Centuries
+
+2. DIGHALIGAON / KALIABOR PLATES OF VANAMALAVARMADEVA
+Collect D. Chutia, Journal of Assam Research Society XXIX (1986–87), pp.37–52. An official museum description has been checked and summarised as B02. The museum's structured “Late Ahom Period” dynasty field conflicts with its own descriptive paragraph and must not be copied into the ancient chronology.
+Object: https://nmma.nic.in/nmma/antiqDetail.do?object=98&refId=216028
+
+3. PALASINI FRAGMENT OF SRI JIVARAJA
+Collect D. Chutia, “A Fragmentary Copper Plate Inscription from Nagaon,” Journal of Assam Research Society XXXI (1 & 2), 1989–90, pp.106–114. Saikia discusses it on printed p.39. A provisional summary is saved as B07. Its identity with Sri Jivara of Deopani is a proposal; its date is excluded from the core count until checked.
+Locator: https://abhidhajournal.com/wp-content/uploads/2024/06/Mrigakhee-Saikia.pdf
+
+4. KASOMARIPATHAR KRISHNA-DURGA IMAGE
+A further named image inscription is mentioned in Saikia's discussion of Jivaraja. Obtain the object catalogue, full reading and photograph. The brief B08 summary is a collection notice, not a verified translation or date.
+Same locator as item 3, printed p.39.
+
+5. COPPER BELL OF SRIKUMARA
+Collect D. Sarma's edition “The Copper Bell Inscription of Srikumara” in the expanded Kamarupa Sasanavali tradition. Later bibliographies cite p.167; confirm pagination against the specific edition obtained. Verify the names, dedication and palaeographic date from the reading and image.
+Museum locator: https://nmma.nic.in/nmma/antiqDetail.do?object=98&refId=229383
+
+6. KAKI SURYA IMAGE INSCRIPTION
+Collect D. Sarma, “Inscription on the Surya image from Kaki,” cited at pp.179–180 in later bibliographies. Match the edited inscription to its museum accession and photograph before treating a catalogue image as the same object. B04 intentionally supplies no invented donor or transaction.
+Bibliography locator: https://ir.nbu.ac.in/bitstreams/3c252121-0da3-4453-b938-96da22aad23e/download
+
+7. RATNAVARMAN AND A POSSIBLE VASUNDHARAVARMAN CLAY SEAL
+University teaching material names Ratnavarman in a discussion of early Dhansiri-valley rulers. Other reports on the web refer to a footprint or a clay seal. A primary edition or secure object identity was not established in this audit. Do not merge these reports with the checked Vasundharavarman stone slab, or create an additional securely dated king from them.
+Teaching-material lead: https://gucdoe.in/sites/default/files/Hist_102.pdf
+Collect H.N. Dutta's original field documentation and object inventory, including Art and Archaeology of the Doiyong-Dhansiri Valley of Assam (Gauhati University dissertation, 1997).
+
+8. DUBORONI / VASUNDHARAVARMAN
+The official excavation notice is checked and summarised as B05. Collect a separate epigraphic edition and legible image if available. The notice names the person and proposes AD 400–500; it does not provide a complete edited text establishing a wharf. Do not convert the later wharf interpretation into a secure translation.
+Primary report: Indian Archaeology 1997–98—A Review, printed pp.6,8–9.
+https://assets.ctfassets.net/l47hkrce4wip/1QK88bFQMLUHt301oLRfIP/66a33097d420ddc59c5d761ace1ed64d/011_Indian_Archaeology_A_Review_1997-98.pdf
+
+9. SILIMPUR AND THE GANGA GRANT CITED BY SHARMA
+Silimpur's placement around the eleventh/twelfth-century boundary and Jayapala's identity require the full edition. For the 922 CE Ganga notice, verify the king-name, grant designation and provenance from the original publication. Both records are described with their present limits in the external-summary folder. Do not invent an exact findspot or secure political equation.
+
+10. GACHTAL PILLAR AND AMBARI
+These are later records, separate from Gopalavarman's Gachtal copper plates. Sanyal's inventory gives 1227 for Gachtal and 1232 for Ambari; other accounts give conflicting dates for Gachtal. Obtain the full D. Sarma readings before preferring one conversion. None belongs in a 350–1100 list on the evidence checked.
+
+11. BURHA MAYONG AND OTHER UNDATED WRITING
+Do not assign an unread or undated rock inscription to the ancient period merely because it looks old. Collect a documented photograph, find context, reading and dating argument before adding it to the chronology.
+
+12. SAME-NAME FALSE MATCH: DHARMAPALA'S INDIAN MUSEUM PLATE, YEAR 26
+Ryosuke Furui's 2011 edition concerns the Bengal Pala sphere, Kotivarsa/Pundravardhana and Buddhist establishments including Somapura. It is not a newly discovered fourth charter of Kamarupa's later Dharmapala. It has therefore not been added to the Kamarupa list.
+https://doi.org/10.1080/02666030.2011.614416
+
+EXHAUSTIVENESS
+The revised files are a documented working catalogue, not a certificate that every inscription or museum fragment has been located. A genuinely exhaustive corpus requires the complete Assam Research Society journal run, Assam archaeology reports and museum accession records, plus plates and texts of the entries above.

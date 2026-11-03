@@ -1,0 +1,117 @@
+KAMARUPA LANDSCAPE EXPLORER — RESEARCH AND DRAWING NOTES
+Prepared 1 November 2026
+
+OPEN
+Double-click Kamarupa-Explorer.html. The map, source summaries, region selection
+and inscription overlay work offline. Keep maps and atlas-assets beside the HTML.
+Existing local source PDFs and TXT files are linked from the Sources dialog.
+The Neog and Kakati reference links are online and require internet access.
+
+WHAT THIS EXPLORER SHOWS
+There are three source perspectives:
+1. Four pithas: an illustrative landscape following Dimbeswar Neog's sequence.
+2. Kalika Purana: an illustration of the broader textual reach described in 50.76–77.
+3. Yogini Tantra: geographic reference anchors plus direction cards for unresolved
+   references, based on the existing local working translation.
+
+These are not successive dated political frontiers. There is no ruler/year slider,
+area calculation or asserted conversion of yojanas into kilometres.
+
+FOUR PITHAS: DEFAULT READING
+Source: Dimbeswar Neog, Introduction to Assam, printed pp.59–60,
+section “Ratna, Kama, Suvarna and Saumar Pitha Divisions”.
+Reference scan: https://ignca.gov.in/Asi_data/34806.pdf
+
+West to east:
+Ratnapitha: Karatoya — Swarna-kosha / Sankosh.
+Kamapitha: Sankosh — Rupika / Rupahi, in the Nagaon area.
+Suvarnapitha: Rupahi — Bhairabi / Bharali, at Tezpur.
+Saumarapitha: Bharali — Dikrang, in the Lakhimpur subdivision.
+
+The last limit in this reading is NOT automatically substituted with Dibang at
+Sadiya. Dikrong and Dibang are different modern rivers. The modern Dikrong line
+is an approximate geographic aid for Neog's Lakhimpur reference.
+
+ALTERNATE FOUR-REGION READING
+Source: Banikanta Kakati, The Mother Goddess Kamakhya, printed pp.7–8.
+Online text: https://pubhtml5.com/iuzeb/wsim/basic/
+Kakati reports a four-region division in the later Haragaurisamvada:
+Ratna: Karatoya–Svarnakosa; Kama: Svarnakosa–Kapili;
+Svarna: Puspika–Bhairavi; Saumara: Bhairavi–Dikrang.
+This is a reported reading, not a fresh collation of that Sanskrit text.
+The differences are displayed in the comparison table, not silently merged.
+
+KALIKA PURANA
+Local source: Kalika-Purana-B-N-Shastri-Surendra-Pratap-2008.pdf and .txt.
+50.76–77, printed p.353: the region east of Karatoya up to Dikkaravasini is
+called Kamarupa; triangular, thirty yojanas broad and a hundred long, containing
+many hills and rivers. Compare the Naraka narrative at 38.118 and 38.127,
+printed pp.245–246, which uses Lalitakanta as an eastern reference.
+The exact modern identification of Lalitakanta is not fixed in this explorer.
+These passages are not the source of the four internal boundaries shown in
+the default later-tradition view.
+
+YOGINI TANTRA
+Local source: Yogini-Tantra-English-Working-Translation-2026.txt,
+based on the Mishra edition (1984); original PDF remains in this collection.
+I.11.16–18 and 21–22: Kanjagiri in the north, Karatoya to the west, Diksu to
+the east, Brahmaputra–Laksha confluence to the south; also Dikkaravasini and a
+triangular extent. Compare the more complex sacred-seat descriptions in II.1.
+The English text is a working translation; the geographic readings retain its
+qualifications. This explorer does not independently establish the modern
+identities of Kanjagiri, Diksu or the historical southern confluence.
+
+CARTOGRAPHIC METHOD — READ BEFORE REUSING SHAPES
+All coloured region polygons and the dashed outer enclosure are editorial
+illustrations made for this interface. They are not digitised from an ancient
+map or derived from a boundary survey. Connecting seams and north–south
+edges are not furnished by the cited passages.
+The outer enclosure suggests broader reach; it is not identical to the
+four-colour region sequence. Its southern shape is especially schematic.
+Karatoya's historical course is not reconstructed. The dotted reference stroke
+for Karatoya and the short Rupahi stroke are explanatory sketches.
+The Teesta/Karatoya combined line in the copied map collection is deliberately
+not used as an established historical Karatoya course.
+Sankosh, Bharali and Dikrong highlights use the copied modern-reference lines;
+their ancient courses and role as full territorial boundaries are not established.
+The Karatoya and Sadiya-area/Dikkaravasini markers are broad reference anchors,
+not surveyed ancient points. Kamakhya is a modern Nilachal locality reference,
+not a plotted ancient royal capital.
+Kanjagiri, Diksu and the southern confluence appear in separate direction cards,
+not as map points. No geographic coordinates are assigned to these three
+unresolved references in the interpretation data.
+
+INSCRIPTIONS
+The optional layer contains the 28 records marked 'within' the 350–1100 catalogue
+whose reference coordinates lie within the displayed landscape's regional bounds
+(latitude 23–29N; longitude 88–96.5E). These are catalogue reference points, not
+all known inscriptions of Kamarupa. Dashed markers preserve locality uncertainty.
+Nearby points are grouped at the current zoom. Individual selections open their
+summary and link to the full inscription explorer. No pitha is assigned by polygon.
+The source CSV and its exact Barpanara/Deopani user-supplied coordinate values
+remain unchanged. See Location-Column-Notes.txt for their provenance.
+
+FILES / MAINTENANCE
+Kamarupa-Explorer.html: page structure.
+atlas-assets/kamarupa.css: visual design and responsive layout.
+atlas-assets/kamarupa.js: map interactions, source views and inscription overlay.
+atlas-assets/kamarupa-data.js: source notes, approximate anchors and editorial shapes.
+atlas-assets/inscriptions-data.js: existing offline catalogue snapshot.
+maps/atlas-geography.js: copied map data prepared for file:// access.
+To update inscriptions from the CSV and TXT summaries, run from this folder:
+  python3 atlas-assets/refresh_atlas.py
+Do not interpret or export the region shapes as surveyed historical boundaries.
+
+MAP ATTRIBUTION
+Natural Earth country outlines: public domain.
+Assam district and river reference data: copied Assam History/data/maps collection.
+All original copied JSON files and their README.md are retained. See maps/README.md
+for layer sources and any stated licence limitations. Modern outlines do not
+represent ancient sovereignty.
+
+CHECKS
+Verified four region selections and their evidence panels; region zoom;
+three source perspectives; separate unresolved direction cards; inscription
+layer; keyboard activation; source dialog and Escape dismissal; desktop and
+390px mobile layout without horizontal overflow; archive deep links; local
+source-file existence; and JavaScript syntax.

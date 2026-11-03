@@ -1,0 +1,67 @@
+INSCRIPTION SUMMARIES AND SOURCE STATUS
+
+27 formal entries from Sharma (1978), plus 8 supplementary notices, 15 external-inscription summaries and 3 later-context records.
+53 summary files in total. Not every notice is a complete edited inscription. Read each evidence-status and limitations statement.
+For dates 350–1100 use the filtered chronology CSV; the full book includes later records.
+B07 and B08 remain provisional. The bibliography is not a substitute for obtaining their original plates and readings.
+
+FORMAL ENTRIES
+01-Umachal-Rock-Inscription-Surendravarman.txt
+02-Barganga-Rock-Inscription-Bhutivarman.txt
+03-Dubi-Copper-Plates-Bhaskaravarman.txt
+04-Seal-Attached-to-Dubi-Plates-Bhaskaravarman.txt
+05-Nalanda-Clay-Seals-Bhaskaravarman.txt
+06-Nidhanpur-Copper-Plates-Bhaskaravarman.txt
+07-Tezpur-Rock-Inscription-Harjaravarman.txt
+08-Hayunthal-Copper-Plates-Harjaravarman.txt
+09-Tezpur-Copper-Plates-Vanamala.txt
+10-Parbatiya-Copper-Plates-Vanamalavarmadeva.txt
+11-Uttarbarbil-Howraghat-Copper-Plates-Balavarman-III.txt
+12-Nowgong-Copper-Plates-Balavarman-III.txt
+13-Bargaon-Copper-Plates-Ratnapala.txt
+14-Suwalkuchi-Copper-Plates-Ratnapala.txt
+15-Gauhati-Copper-Plates-Indrapala.txt
+16-Guwakuchi-Copper-Plates-Indrapala.txt
+17-Gachtal-Copper-Plates-Gopalavarman.txt
+18-Khanamukh-Copper-Plates-Dharmapala.txt
+19-Subhankarapataka-Copper-Plates-Dharmapala.txt
+20-Puspabhadra-Copper-Plates-Dharmapala.txt
+21-Kamauli-Copper-Plates-Vaidyadeva.txt
+22-Assam-Plates-Vallabhadeva.txt
+A01-Nagajari-Khanikargaon-Fragmentary-Stone-Inscription.txt
+A02-Deopani-Vishnu-Image-Inscription.txt
+A03-Shankara-Narayana-Stone-Image-Inscription.txt
+A04-Harihara-Stone-Image-Inscription.txt
+A05-Ulubari-Copper-Plates-Balavarman-III.txt
+
+SUPPLEMENTARY INSCRIPTIONS
+Supplementary inscriptions/B01-Coratbari-copper-plates.txt
+Supplementary inscriptions/B02-Kaliabor-Dighaligaon-copper-plates.txt
+Supplementary inscriptions/B03-Gauhati-copper-bell-inscription.txt
+Supplementary inscriptions/B04-Kaki-Surya-image-inscription.txt
+Supplementary inscriptions/B05-Duboroni-stone-inscription.txt
+Supplementary inscriptions/B06-Kuruvabahi-copper-plates.txt
+Supplementary inscriptions/B07-Palasini-fragmentary-copper-plate-of-Jivaraja.txt
+Supplementary inscriptions/B08-Kasomaripathar-Krishna-Durga-image-inscription.txt
+
+EXTERNAL INSCRIPTIONS
+External inscriptions/E01-Allahabad-Prayaga-pillar-inscription.txt
+External inscriptions/E02-Mandsaur-pillar-inscription-of-Yashodharman.txt
+External inscriptions/E03-Apshad-stone-inscription.txt
+External inscriptions/E04-Pashupati-temple-inscription-of-Jayadeva-II.txt
+External inscriptions/E05-Samangad-plates-of-Dantidurga.txt
+External inscriptions/E06-Bhagalpur-grant-of-Narayanapala.txt
+External inscriptions/E07-Grant-of-Ganga-king-Vajravarman-cited-by-Sharma.txt
+External inscriptions/E08-Paschimbhag-copper-plates.txt
+External inscriptions/E09-Belava-copper-plates.txt
+External inscriptions/E10-Deopara-inscription.txt
+External inscriptions/E11-Madhainagar-copper-plates.txt
+External inscriptions/E12-Silimpur-stone-slab-inscription.txt
+External inscriptions/E13-Rajghat-inscription-of-Bhimadeva.txt
+External inscriptions/E14-Mainamati-plates-of-Ladahachandra.txt
+External inscriptions/E15-Mainamati-plates-of-Govindachandra.txt
+
+LATER CONTEXT
+Later context/L01-Kanai-Barasi-Bowa-rock-inscription.txt
+Later context/L02-Ambari-inscription-of-Samudrapala.txt
+Later context/L03-Gachtal-pillar-inscription.txt
