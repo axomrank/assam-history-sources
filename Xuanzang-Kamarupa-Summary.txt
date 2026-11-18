@@ -45,5 +45,5 @@ HISTORICAL VALUE
 The account is especially useful for seventh-century royal patronage, settlement, water management, religion, routes and relations with neighbouring powers. It should be used alongside contemporary inscriptions and archaeological evidence. For linguistic or boundary arguments, compare a newer translation and the Chinese text before drawing a precise conclusion.
 
 LOCAL SOURCE FILES
-/home/angsuman/extra_spac/Primary source/Si-Yu-Ki-Xuanzang-Samuel-Beal-Volume-2-1884.pdf
-/home/angsuman/extra_spac/Primary source/Si-Yu-Ki-Xuanzang-Samuel-Beal-Volume-2-1884.txt
+./Si-Yu-Ki-Xuanzang-Samuel-Beal-Volume-2-1884.pdf
+./Si-Yu-Ki-Xuanzang-Samuel-Beal-Volume-2-1884.txt
